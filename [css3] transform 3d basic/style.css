@@ -10,7 +10,7 @@ div.box3d{
 	width      : 150px;
 	height     : 70px;
 	margin     : 100px auto 0;
-	background : darkmagenta;
+	background : blue;
 
 	-webkit-transform  : rotateX(70deg);
 	-webkit-transition : -webkit-transform 700ms;
